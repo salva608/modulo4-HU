@@ -1,4 +1,4 @@
-StreamHub - MongoDB
+StreamHub - MongoDB. 
 Descripción
 
 Este proyecto modela e implementa una base de datos NoSQL en MongoDB para la plataforma StreamHub, incluyendo:
